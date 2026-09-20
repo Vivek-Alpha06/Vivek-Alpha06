@@ -7,8 +7,10 @@
 </a>
 
 <p>
+  <a href="https://www.linkedin.com/in/vivek-majumdar-3b6430372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Vivek_25_05"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" /></a>
+  <a href="mailto:majumdarvivek6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Vivek-Alpha06?tab=followers"><img src="https://img.shields.io/github/followers/Vivek-Alpha06?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0f2027" alt="GitHub followers" /></a>
-  <a href="https://x.com/Vivek_25_05"><img src="https://img.shields.io/badge/@Vivek__25__05-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f2027" alt="X profile" /></a>
   <img src="https://komarev.com/ghpvc/?username=Vivek-Alpha06&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -20,24 +22,23 @@
 
 I am **Vivek Majumdar**, a full-stack developer from **Kolkata, India**, focused on shipping real, working products rather than demos. Most of my time goes into **Web3 and blockchain** — writing smart contracts, wiring them to clean front-ends, and making decentralized systems usable by ordinary people.
 
-```typescript
-const vivek = {
-  location:  "Kolkata, India",
-  role:      "Full-Stack Developer",
-  focus:     ["Web3", "Blockchain", "Product Engineering"],
-  stack:     ["TypeScript", "React", "Next.js", "Node.js", "Rust"],
-  chains:    ["Stellar / Soroban", "Midnight", "EVM"],
-  building:  "Privacy-preserving and community-finance dApps",
-  learning:  "Zero-knowledge proofs, protocol design, system architecture",
-  motto:     "Ship it, measure it, improve it.",
-};
-```
+|  |  |
+| :--- | :--- |
+| 📍 **Location** | Kolkata, India |
+| 💼 **Role** | Full-Stack Developer |
+| 🎯 **Focus** | Web3 · Blockchain · Product Engineering |
+| ⛓️ **Chains** | Stellar / Soroban · Midnight · EVM |
+| 🧩 **Core stack** | TypeScript · React · Next.js · Node.js · Rust |
+| 🏗️ **Building** | Privacy-preserving and community-finance dApps |
+| 📚 **Learning** | Zero-knowledge proofs, protocol design, system architecture |
 
 - 🔭 Currently building **privacy-first and community-finance protocols** on Stellar and Midnight
 - 🌱 Going deeper on **zero-knowledge proofs**, smart-contract security, and protocol design
 - 👯 Open to collaborating on **Web3, open-source, and hackathon projects**
 - 💬 Ask me about **TypeScript, React, smart contracts, or taking an idea from zero to deployed**
 - ⚡ Fun fact: I would rather ship one thing people actually use than ten that only look good in a README
+
+> **Ship it, measure it, improve it.**
 
 ---
 
@@ -92,10 +93,10 @@ const vivek = {
 <div align="center">
 
 <a href="https://github.com/Vivek-Alpha06/ShadowVote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Alpha06&repo=ShadowVote&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="ShadowVote" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Vivek-Alpha06&repo=ShadowVote&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="ShadowVote" />
 </a>
 <a href="https://github.com/Vivek-Alpha06/Plexa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vivek-Alpha06&repo=Plexa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="Plexa" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Vivek-Alpha06&repo=Plexa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="Plexa" />
 </a>
 
 </div>
@@ -113,8 +114,8 @@ const vivek = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vivek-Alpha06&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Alpha06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Vivek-Alpha06&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Vivek-Alpha06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee" alt="Top languages" />
 
 <br/>
 
@@ -122,11 +123,21 @@ const vivek = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Alpha06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=ffffff&area=true" alt="Contribution activity graph" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek-Alpha06&theme=tokyonight" alt="Profile summary" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek-Alpha06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek-Alpha06&theme=tokyonight" alt="Repos per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek-Alpha06&theme=tokyonight" alt="Most commit language" />
+
+<br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek-Alpha06&theme=tokyonight" alt="Stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek-Alpha06&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+
+<br/><br/>
+
+<img src="https://github-trophies.vercel.app/?username=Vivek-Alpha06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 
 </div>
 
@@ -150,12 +161,10 @@ const vivek = {
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/vivek-majumdar-3b6430372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/Vivek_25_05"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://github.com/Vivek-Alpha06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:majumdarvivek6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- LinkedIn: replace YOUR-HANDLE below, then uncomment this line
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
--->
 
 <br/><br/>
 
