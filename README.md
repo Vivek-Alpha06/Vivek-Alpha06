@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20Majumdar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Web3%20%26%20Blockchain%20Builder&descAlignY=55&descSize=18" alt="Vivek Majumdar" />
+<img src="https://raw.githubusercontent.com/Vivek-Alpha06/Vivek-Alpha06/main/assets/header.svg" width="100%" alt="Vivek Majumdar - Full-Stack Developer, Web3 and Blockchain Builder" />
 
 <a href="https://github.com/Vivek-Alpha06">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+for+the+decentralized+web;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Rust;Smart+contracts+with+clean+product+UX;Always+shipping%2C+always+learning" alt="What I do" />
@@ -170,6 +170,6 @@ I am **Vivek Majumdar**, a full-stack developer from **Kolkata, India**, focused
 
 <i>If any of my projects helped you, a star means a lot.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" />
+<img src="https://raw.githubusercontent.com/Vivek-Alpha06/Vivek-Alpha06/main/assets/footer.svg" width="100%" alt="" />
 
 </div>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-label="Vivek Majumdar - Full-Stack Developer, Web3 and Blockchain Builder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1a20"/>
+      <stop offset="45%" stop-color="#16303a"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="220" fill="url(#bg)"/>
+
+  <g fill="#22d3ee" opacity="0.22">
+    <circle cx="70" cy="38" r="1.6"/>
+    <circle cx="140" cy="70" r="1.6"/>
+    <circle cx="210" cy="30" r="1.6"/>
+    <circle cx="646" cy="44" r="1.6"/>
+    <circle cx="716" cy="76" r="1.6"/>
+    <circle cx="786" cy="34" r="1.6"/>
+    <circle cx="806" cy="104" r="1.6"/>
+    <circle cx="48" cy="108" r="1.6"/>
+  </g>
+
+  <path d="M0 150 Q 106 118 214 142 T 428 150 T 642 132 T 854 152 L 854 220 L 0 220 Z" fill="url(#w1)"/>
+  <path d="M0 168 Q 122 142 244 166 T 488 172 T 700 156 T 854 174 L 854 220 L 0 220 Z" fill="url(#w2)"/>
+  <path d="M0 188 Q 140 168 280 186 T 560 192 T 854 182 L 854 220 L 0 220 Z" fill="url(#w3)"/>
+
+  <text x="427" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff" letter-spacing="1.5">Vivek Majumdar</text>
+
+  <rect x="337" y="110" width="180" height="2" fill="url(#rule)"/>
+
+  <text x="427" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#a9d8e6" letter-spacing="0.6">Full-Stack Developer &#183; Web3 &amp; Blockchain Builder</text>
+
+  <text x="427" y="166" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6ea8bd" letter-spacing="2.2">KOLKATA, INDIA</text>
+</svg>
